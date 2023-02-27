@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Hello! What is your favorite subject in school? Please type here:");
         }
     }
 }
